@@ -1,0 +1,1 @@
+export const setLabel = (text) => ({ type: "UPDATE_LABEL", text });
